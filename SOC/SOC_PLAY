@@ -1,0 +1,53 @@
+#
+Character
+SkinName = dave
+DisplayName = Dave
+TagTextColor = SKINCOLOR_BLUE
+TagOutlineColor = SKINCOLOR_JET
+OppositeColor = SKINCOLOR_AQUAMARINE
+PlayerText = ^4Dave's^0 wheelchair allows him to go really fast, except with walls.
+
+^4Ability:^0 Jump Thok
+A hybrid between the thok and the double jump
+
+^4Ability:^0 Spindash
+Basic spindash. Use the SPIN button to spin.
+
+Tip: The jump thok allows you to reach areas quicker, use it wisely.
+
+#
+
+Character
+SkinName = bambi
+DisplayName = Bambi
+TagTextColor = SKINCOLOR_MASTER
+TagOutlineColor = SKINCOLOR_FOREST
+OppositeColor = SKINCOLOR_AQUA
+PlayerText = ^3Bambi^0 destroys enemies quickly, but check your surroundings first.
+
+^3Ability:^0 Homing Thok
+Press the JUMP button on an enemy to hit or destroy it.
+
+^3Ability:^0 Gunslinger
+Press the SPIN button to fire at any nearby enemies.
+
+#
+
+Character
+SkinName = dave&bambi
+PicName = DNBPICK
+DisplayName = Dave and Bambi
+TagTextColor = SKINCOLOR_BLUE
+TagOutlineColor = SKINCOLOR_JET
+OppositeColor = SKINCOLOR_AQUAMARINE
+PlayerText = ^4The^0 ^3two^0 team up to speed past Eggman's plans.
+
+^4Ability:^0 Jump Thok
+A hybrid between the thok and the double jump
+
+^4Ability:^0 Spindash
+Basic spindash. Use the SPIN button to spin.
+
+Tip: The jump thok allows you to reach areas quicker, use it wisely.
+
+#
